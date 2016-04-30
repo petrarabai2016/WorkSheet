@@ -1,0 +1,6 @@
+Munkalapok			Karbantartás			Küldés 			Kilépés
+	Munkalap			Felahsználók karb.	     Nyomtat
+	Átadás átvételi			Op. rendszer karb.	     Megtekint
+	Ixnet gép adatok		Hardwer karb.		     E-mail
+	Ixnet orvos adatok		Árak karb.
+	Ixnet rendszer
